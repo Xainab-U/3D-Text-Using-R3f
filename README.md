@@ -13,3 +13,4 @@ Added a dropdown menu for language selection, supporting English, Hindi, and Kan
 Supported 10 font styles for English, and 5 font styles each for Kannada and Hindi.
 Maintained all previously available operations, including changing font size, height, position, color, opacity, and font style.
 
+
